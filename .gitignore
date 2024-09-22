@@ -1,0 +1,5 @@
+# environment
+*.venv
+
+# temps
+*.DS_Store
